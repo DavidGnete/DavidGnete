@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=David%20Agudelo%20Ocampo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Next.js%20%26%20React%20%7C%20Fullstack%20in%20Progress&descAlignY=55&descSize=16"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,00ff88&height=180&section=header&text=David+Agudelo+Ocampo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend+Developer+|+Next.js+%26+React+|+Fullstack+in+Progress&descAlignY=58&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Building+real+apps%2C+not+just+tutorials+%F0%9F%9A%80;Next.js+%2B+React+%2B+TypeScript+Specialist;Top+5+%40+Riwi+Academy+%F0%9F%8F%86;Open+to+Freelance+%26+Junior+Positions+%F0%9F%92%BC)](https://git.io/typing-svg)
 
