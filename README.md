@@ -55,11 +55,11 @@ const developer = {
 
 <div align="center">
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidGnete&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=e6edf3)
+<img src="https://github-readme-stats.vercel.app/api?username=DavidGnete&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=e6edf3" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGnete&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGnete&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DavidGnete&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+<img src="https://streak-stats.demolab.com?user=DavidGnete&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
 </div>
 
