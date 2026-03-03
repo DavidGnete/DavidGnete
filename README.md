@@ -17,17 +17,10 @@
 
 ##  Sobre mí
 
-```typescript
-const developer = {
-  name:        "David Agudelo Ocampo",
-  role:        "Frontend Developer | Fullstack in Progress",
-  location:    "Medellín, Colombia 🇨🇴",
-  education:   "Academia Riwi — Top 5 Mejores Proyectos 🏆",
-  currentFocus: "Next.js · TypeScript · NestJS · PostgreSQL",
-  philosophy:  "Construyo apps reales, no solo tutoriales.",
-  available:   true,
-};
-```
+Soy Frontend Developer de Medellín, Colombia 🇨🇴, especializado en **Next.js y React**.
+
+No me quedo en tutoriales — tengo **3 apps en producción real** con pagos, bases de datos y usuarios reales.
+Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitectura de microservicios
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
