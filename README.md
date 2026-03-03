@@ -61,6 +61,12 @@ const developer = {
 
 <img src="https://streak-stats.demolab.com?user=DavidGnete&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGnete&layout=donut&theme=github_dark&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117&langs_count=6"/>
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidGnete&theme=github-compact&hide_border=true&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&bg_color=0d1117"/>
+
 </div>
 
 <div align="center">
