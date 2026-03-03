@@ -55,35 +55,6 @@ const developer = {
 
 ---
 
-##  Proyectos en producción
-
-###  WorkPoint — Plataforma de Coworking
-> Reserva de espacios de coworking con integración de pagos Mercado Pago, backend microservicios en C#/.NET y sistema CRUD completo.
-
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto_Live-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://proyecto-integrador-eight-pi.vercel.app/Home)
-
-`Next.js` · `C# / .NET` · `Mercado Pago` · `Microservices` · `Vercel`
-
----
-
-###  Tienda Paisa — E-Commerce Autogestionable
-> Tienda virtual con gestión de productos, PostgreSQL + Prisma ORM y checkout por WhatsApp para comercio regional colombiano.
-
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto_Live-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://tienda-paisa.vercel.app)
-
-`Next.js` · `PostgreSQL` · `Prisma ORM` · `WhatsApp` · `Vercel`
-
----
-
-###  El Paisita — Landing de Diseño de Interiores
-> Landing page mobile-first para empresa de diseño de interiores, con embudo de conversión via WhatsApp optimizado para clientes locales.
-
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto_Live-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://el-paisita.vercel.app)
-
-`Next.js` · `Tailwind CSS` · `Mobile-first` · `Lead Generation`
-
----
-
 ##  GitHub Status
 
 <div align="center">
