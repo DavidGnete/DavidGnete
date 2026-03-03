@@ -46,20 +46,15 @@ Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitec
 
 ##  GitHub Status
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DavidGnete&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&custom_title=David's+GitHub+Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=DavidGnete&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&background=0D1117&stroke=00ff8844&dates=888888"/>
 <div align="center">
 
-
-
+<img width="49%" src="https://streak-stats.demolab.com?user=DavidGnete&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&background=0D1117&stroke=00ff8844&dates=888888"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGnete&layout=donut&theme=github_dark&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117&langs_count=6"/>
 <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidGnete&theme=github-compact&hide_border=true&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&bg_color=0d1117"/>
 
 </div>
-
 <div align="center">
 
 *"No construyo proyectos para aprender — aprendo para construir proyectos reales."*
