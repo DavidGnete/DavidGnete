@@ -62,7 +62,6 @@ const developer = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=DavidGnete&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
 </div>
----
 
 <div align="center">
 
