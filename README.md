@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 
 ```typescript
 const developer = {
@@ -31,14 +31,7 @@ const developer = {
 
 ---
 
-## 🏆 Logro destacado
-
-> 🥇 **Seleccionado Top 5 Mejores Proyectos — Academia Riwi (Medellín)**
-> por excelencia técnica en desarrollo de software.
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -62,9 +55,9 @@ const developer = {
 
 ---
 
-## 🚀 Proyectos en producción
+##  Proyectos en producción
 
-### 🏢 WorkPoint — Plataforma de Coworking
+###  WorkPoint — Plataforma de Coworking
 > Reserva de espacios de coworking con integración de pagos Mercado Pago, backend microservicios en C#/.NET y sistema CRUD completo.
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto_Live-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://proyecto-integrador-eight-pi.vercel.app/Home)
@@ -73,7 +66,7 @@ const developer = {
 
 ---
 
-### 🛍️ Tienda Paisa — E-Commerce Autogestionable
+###  Tienda Paisa — E-Commerce Autogestionable
 > Tienda virtual con gestión de productos, PostgreSQL + Prisma ORM y checkout por WhatsApp para comercio regional colombiano.
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto_Live-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://tienda-paisa.vercel.app)
@@ -82,7 +75,7 @@ const developer = {
 
 ---
 
-### 🏠 El Paisita — Landing de Diseño de Interiores
+###  El Paisita — Landing de Diseño de Interiores
 > Landing page mobile-first para empresa de diseño de interiores, con embudo de conversión via WhatsApp optimizado para clientes locales.
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto_Live-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://el-paisita.vercel.app)
@@ -91,7 +84,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Status
 
 <div align="center">
 
@@ -105,11 +98,11 @@ const developer = {
 
 ---
 
-## 📈 Stats rápidos
+##  Stats rápidos
 
 <div align="center">
 
-| 🚀 Live Projects | 📅 Tiempo construyendo | 🏆 Premio Academia |
+|  Live Projects |  Tiempo construyendo |  
 |:-:|:-:|:-:|
 | **3** | **1+ año** | **Top 5 Riwi** |
 
