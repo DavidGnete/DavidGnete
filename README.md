@@ -1,21 +1,19 @@
 <div align="center">
 
 <!-- TYPING SVG ANIMADO -->
+ <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+ 
+<br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Frontend+Developer;Next.js+%26+React+Specialist;Building+real+apps%2C+not+just+tutorials;Fullstack+in+Progress+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
 
-**`David Agudelo Ocampo`** · Medellín, Colombia 🇨🇴
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-agudelo-ocampo-40b505348)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agudeloocampodavid@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/DavidGnete)
+<h1 align="center">Hi, I'm David Agudelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 </div>
 
 ---
 
-##  Sobre mí
+##  Sobre Mi
 
 Soy Frontend Developer de Medellín, Colombia 🇨🇴, especializado en **Next.js y React**.
 
@@ -41,7 +39,7 @@ Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitec
 
 
 
-### Tools & Deploy
+### Herramientas & Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,15 +49,14 @@ Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitec
 
 ---
 
-##  GitHub Status
+##  GitHub Estado
 
-<div align="center">
+<div align="center" cellspacing="0" cellpadding="0">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=DavidGnete&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&background=0D1117&stroke=00ff8844&dates=888888"/>
+<img width="40%" src="https://streak-stats.demolab.com?user=DavidGnete&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&background=0D1117&stroke=00ff8844&dates=888888"/>
 
-<br/><br/>
 
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidGnete&theme=github-compact&hide_border=true&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&bg_color=0d1117"/>
+<img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidGnete&theme=github-compact&hide_border=true&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&bg_color=0d1117"/>
 
 </div>
 <div align="center">
