@@ -64,11 +64,7 @@ Always building. Always improving.
 </div>
 <div align="center">
 
-*"No construyo proyectos para aprender — aprendo para construir proyectos reales."*
+*"I don't build projects to learn I learn to build real projects"*
 
-**¿Tienes un proyecto en mente? ¡Hablemos!**
-
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-agudelo-ocampo-40b505348)
-[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agudeloocampodavid@gmail.com)
 
 </div>
