@@ -13,12 +13,15 @@
 
 ---
 
-##  Sobre Mi
+##  About Me
 
-Soy Frontend Developer de Medellín, Colombia 🇨🇴, especializado en **Next.js y React**.
+I love turning ideas into real products platforms
+to booking systems and business landing pages.
 
-No me quedo en tutoriales — tengo **3 apps en producción real** con pagos, bases de datos y usuarios reales.
-Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitectura de microservicios
+Still learning every day, currently leveling up
+
+
+Always building. Always improving.
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -29,7 +32,7 @@ Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitec
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### Backend & Base de datos
+### Backend & Data Base
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,7 +42,7 @@ Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitec
 
 
 
-### Herramientas & Deploy
+### Tools & Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,7 +52,7 @@ Actualmente expandiéndome al stack completo con **NestJS, PostgreSQL y arquitec
 
 ---
 
-##  GitHub Estado
+##  Status 
 
 <div align="center" cellspacing="0" cellpadding="0">
 
